@@ -1,0 +1,7 @@
+coreferee
+spacy
+llama-index-graph-stores-neo4j
+numpy==1.26.4
+pip
+transformers
+torch
