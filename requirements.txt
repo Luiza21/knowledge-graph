@@ -1,9 +1,9 @@
-# coreferee
-# spacy
-# llama-index-graph-stores-neo4j
+coreferee
+spacy
+llama-index-graph-stores-neo4j
 numpy
-# pip
-# transformers
-# torch
-langchain-neo4j
-langchain-openai
+pip
+transformers
+torch
+# langchain-neo4j
+# langchain-openai
