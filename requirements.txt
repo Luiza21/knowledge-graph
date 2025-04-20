@@ -1,7 +1,9 @@
-coreferee
-spacy
-llama-index-graph-stores-neo4j
-numpy==1.26.4
-pip
-transformers
-torch
+# coreferee
+# spacy
+# llama-index-graph-stores-neo4j
+numpy
+# pip
+# transformers
+# torch
+langchain-neo4j
+langchain-openai
