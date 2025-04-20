@@ -3,7 +3,7 @@
 # curl -LsSf https://astral.sh/uv/install.sh | sh
 uv venv .venv --python=3.10 & source .venv/bin/activate
 uv python install 3.10
-uv pip install -r requirements.txt --prerelease=allow
+uv pip install -r requirements_graph.txt --prerelease=allow
 
 python -m spacy download en_core_web_lg
 python -m coreferee install en

@@ -5,5 +5,3 @@ numpy
 pip
 transformers
 torch
-# langchain-neo4j
-# langchain-openai

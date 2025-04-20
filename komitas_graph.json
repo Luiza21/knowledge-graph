@@ -1,0 +1,78 @@
+[
+  { "head": "Kristapor Kara-Murza", "tail": "Notaji Vard", "type": "student" },
+  { "head": "Kütahya", "tail": "Ottoman Empire", "type": "country" },
+  {
+    "head": "Kristapor Kara-Murza",
+    "tail": "Notaji Vardapet",
+    "type": "student"
+  },
+  {
+    "head": "Yerevan State Musical Conservatory",
+    "tail": "Yerevan",
+    "type": "located in the administrative territorial entity"
+  },
+  { "head": "Ottoman imperial capital", "tail": "Istanbul", "type": "capital" },
+  {
+    "head": "Hôpital de la paix",
+    "tail": "Paris",
+    "type": "located in the administrative territorial entity"
+  },
+  {
+    "head": "Armenian genocide",
+    "tail": "24 April 1915",
+    "type": "start time"
+  },
+  {
+    "head": "Gevorgian Seminary",
+    "tail": "Etchmiadzin",
+    "type": "located in the administrative territorial entity"
+  },
+  {
+    "head": "Komitas Vardapet",
+    "tail": "Hüdavendigâr (Bursa) Vilayet",
+    "type": "place of birth"
+  },
+  { "head": "Istanbul", "tail": "Constantinople", "type": "replaces" },
+  {
+    "head": "Yerevan",
+    "tail": "Arabkir District",
+    "type": "contains administrative territorial entity"
+  },
+  {
+    "head": "Komitas Vardapet",
+    "tail": "Ottoman Empire",
+    "type": "country of citizenship"
+  },
+  {
+    "head": "Arabkir District",
+    "tail": "Yerevan",
+    "type": "located in the administrative territorial entity"
+  },
+  { "head": "Makar Yekmalyan", "tail": "Tiflis", "type": "work location" },
+  {
+    "head": "Hüdavendigâr (Bursa) Vilayet",
+    "tail": "Ottoman Empire",
+    "type": "country"
+  },
+  {
+    "head": "Komitas Vardapet",
+    "tail": "Frederick William University",
+    "type": "educated at"
+  },
+  {
+    "head": "Istanbul",
+    "tail": "Ottoman imperial capital",
+    "type": "capital of"
+  },
+  {
+    "head": "Komitas Vardapet",
+    "tail": "22 October 1935",
+    "type": "date of death"
+  },
+  { "head": "Constantinople", "tail": "Istanbul", "type": "replaced by" },
+  {
+    "head": "Notaji Vardapet",
+    "tail": "Kristapor Kara - Murza",
+    "type": "student of"
+  }
+]
